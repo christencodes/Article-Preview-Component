@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Christenally/Article-Preview-Component)
-- Live Site URL: (https://christenally.github.io/Article-Preview-Component)
+- Solution URL: (https://github.com/christencodes/Article-Preview-Component)
+- Live Site URL: (https://christencodes.github.io/Article-Preview-Component)
 
 ## My process
 
